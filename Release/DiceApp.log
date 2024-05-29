@@ -1,0 +1,12 @@
+﻿  dice.cpp
+  diceCup.cpp
+C:\Users\Wade\source\repos\DiceApp\diceCup.cpp(5,28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Wade\source\repos\DiceApp\diceCup.cpp(12,28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  diceTray.cpp
+C:\Users\Wade\source\repos\DiceApp\diceTray.cpp(56,22): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 363 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DiceApp.vcxproj -> C:\Users\Wade\source\repos\DiceApp\Release\DiceApp.exe
